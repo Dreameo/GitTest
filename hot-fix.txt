@@ -8,3 +8,5 @@ hot-fix log..
 hot-fix log..
 hot-fix log..
 hot-fix log..
+
+master-hotfix.txt conflict

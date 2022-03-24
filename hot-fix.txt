@@ -9,4 +9,8 @@ hot-fix log..
 hot-fix log..
 hot-fix log..
 
-master-hotfix.txt conflict
+master-hotix.txt conflict
+ihot-fix log..
+
+hot-fix -merge conflddict 
+
